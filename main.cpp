@@ -134,4 +134,5 @@ int endofunc(int e,int a){
     getch();
     return 0;
 }
+//Hi emran
 
