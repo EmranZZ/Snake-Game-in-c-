@@ -3,7 +3,7 @@
 #include<stdio.h>
 #include<windows.h>
 #include<stdlib.h>
-
+// hi emran
 int endofunc(int e, int a);
 
 int main(){
